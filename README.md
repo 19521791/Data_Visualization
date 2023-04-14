@@ -1,2 +1,2 @@
-<h1><center>Data Visualization</center></h1>
-<img src='image.jpg', width=400, height=400>
+<h1 align="center">Data Visualization</h1>
+<img align="center" src='image.jpg', width='300', height='300'>
